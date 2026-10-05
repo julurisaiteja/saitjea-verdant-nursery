@@ -80,7 +80,7 @@ export const counselTips = [
   }
 ];
 
-export const categories = Array.from(new Set(items.map((i) => i.category)).sort());
+export const categories = Array.from(new Set(items.map((i) => i.category))).sort();
 
 export function formatMoney(n: number) {
   return new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", maximumFractionDigits: 0 }).format(n);
