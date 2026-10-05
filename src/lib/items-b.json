@@ -1,0 +1,187 @@
+[
+  {
+    "id": "verdant-nursery-6",
+    "title": "Soil + Care Kit",
+    "price": 22,
+    "description": "Repotting essentials",
+    "category": "Care",
+    "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.8,
+    "reviews": 59,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Light": "See /care matcher",
+      "Water": "Weekly check",
+      "Zone": "Care"
+    },
+    "options": [
+      "4\" pot",
+      "6\" pot",
+      "Repot service"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Soil + Care Kit?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "verdant-nursery-7",
+    "title": "Calathea Whisper",
+    "price": 38,
+    "description": "Humidity-loving leaves",
+    "category": "Humidity",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.9,
+    "reviews": 68,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Light": "See /care matcher",
+      "Water": "Weekly check",
+      "Zone": "Humidity"
+    },
+    "options": [
+      "4\" pot",
+      "6\" pot",
+      "Repot service"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Calathea Whisper?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "verdant-nursery-8",
+    "title": "Pothos Cascade",
+    "price": 26,
+    "description": "Trailing green curtain",
+    "category": "Trailing",
+    "image": "https://images.unsplash.com/photo-1520412099551-62b6bafeb5bb?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.3,
+    "reviews": 77,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Light": "See /care matcher",
+      "Water": "Weekly check",
+      "Zone": "Trailing"
+    },
+    "options": [
+      "4\" pot",
+      "6\" pot",
+      "Repot service"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Pothos Cascade?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "verdant-nursery-9",
+    "title": "String of Pearls",
+    "price": 31,
+    "description": "Trailing succulent bowl",
+    "category": "Succulent",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.4,
+    "reviews": 86,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Light": "See /care matcher",
+      "Water": "Weekly check",
+      "Zone": "Succulent"
+    },
+    "options": [
+      "4\" pot",
+      "6\" pot",
+      "Repot service"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in String of Pearls?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  },
+  {
+    "id": "verdant-nursery-10",
+    "title": "Moss Terrarium Dome",
+    "price": 56,
+    "description": "Closed humidity biome",
+    "category": "Terrarium",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=900&q=80",
+    "badge": null,
+    "rating": 4.5,
+    "reviews": 95,
+    "specs": {
+      "Delivery": "Digital / scheduled (demo)",
+      "Support": "English counsel copy",
+      "Light": "See /care matcher",
+      "Water": "Weekly check",
+      "Zone": "Terrarium"
+    },
+    "options": [
+      "4\" pot",
+      "6\" pot",
+      "Repot service"
+    ],
+    "pdpFaqs": [
+      {
+        "q": "What is included in Moss Terrarium Dome?",
+        "a": "Everything listed in specs is part of this demo package; no live services are rendered."
+      },
+      {
+        "q": "Can I change options after checkout?",
+        "a": "In this demo, contact notes on the book/order form simulate changes."
+      },
+      {
+        "q": "Refunds?",
+        "a": "Demo storefront only — no real charges or refunds."
+      }
+    ]
+  }
+]
